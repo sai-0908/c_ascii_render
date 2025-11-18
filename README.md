@@ -3,6 +3,15 @@
 Small real‑time 3D "ray‑marched" cube rendered as Unicode art in your terminal.  
 Includes rain, mountains, a sun/light source, motion path, FPS/volume HUD and a tiny chiptune-style music loop.
 
+## Demo
+
+<p align="center">
+  <video src="resources/demo.webm" controls width="640">
+    Your browser does not support the video tag.  
+    You can download the demo from <code>resources/demo.webm</code>.
+  </video>
+</p>
+
 ## Build
 
 Requirements:
